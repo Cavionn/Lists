@@ -1,0 +1,17 @@
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\bin\Debug\net6.0-windows\lists.exe
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\bin\Debug\net6.0-windows\lists.deps.json
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\bin\Debug\net6.0-windows\lists.runtimeconfig.json
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\bin\Debug\net6.0-windows\lists.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\bin\Debug\net6.0-windows\lists.pdb
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.csproj.AssemblyReference.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.Form1.resources
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.csproj.GenerateResource.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.AssemblyInfoInputs.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.AssemblyInfo.cs
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.csproj.CoreCompileInputs.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\refint\lists.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.pdb
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\lists.genruntimeconfig.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\lists\lists\obj\Debug\net6.0-windows\ref\lists.dll
